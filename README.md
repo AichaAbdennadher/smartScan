@@ -1,4 +1,3 @@
-<img width="451" height="859" alt="02-onboarding-languages" src="https://github.com/user-attachments/assets/a5d6b5ee-af5a-4584-b554-919dc83bd665" />
 # SmartScan
 
 > Assistant Flutter multilingue pour scanner du texte, identifier sa langue, le traduire hors ligne et le lire à voix haute.
@@ -114,57 +113,28 @@ Chaque push et chaque pull request vers `main` déclenche automatiquement `flutt
 
 ## Aperçu
 
-<img width="259" height="400" alt="01-onboarding-welcome" src="https://github.com/user-attachments/assets/3bea7fc7-a5f9-4c66-bb39-a50d01ac8b05" />
-<img width="451" height="859" alt="02-onboarding-languages" src="https://github.com/user-attachments/assets/a1d760f3-7957-4ce4-b006-6240fae41efe" />
-<img width="414" height="781" alt="03-onboarding-camera-translation" src="https://github.com/user-attachments/assets/b9fb5fce-4aa0-47a3-8056-2a4dccecaaff" />
-<img width="433" height="833" alt="04-onboarding-voice-reading" src="https://github.com/user-attachments/assets/35b118f4-4743-4f66-881f-5ddbc8a81b87" />
-<img width="447" height="885" alt="06-home" src="https://github.com/user-attachments/assets/1306db20-eac5-4b8d-a4fe-6047ce4c0e26" />
-<img width="434" height="825" alt="05-onboarding-offline-translation" src="https://github.com/user-attachments/assets/8495e51a-7b8e-40ba-9413-7c426cf2cb6a" />
-<img width="443" height="885" alt="07-about" src="https://github.com/user-attachments/assets/ae6b55bf-c2eb-436d-97b3-80c055c05ae5" />
-<img width="440" height="863" alt="12-settings" src="https://github.com/user-attachments/assets/cd4597f1-07d0-4100-99ca-7e0dc03c095b" />
-<img width="450" height="911" alt="09-scan-results" src="https://github.com/user-attachments/assets/acc2889b-566a-4d1c-98e5-849ad6220199" />
-<img width="450" height="911" alt="09-scan-results" src="https://github.com/user-attachments/assets/b7775499-75ef-486e-b5b2-44315f1b5176" />
-<img width="450" height="912" alt="08-scanner" src="https://github.com/user-attachments/assets/e80841f4-b908-4a42-9958-8ec4a5ad3a23" />
-# SmartScan Assistant – Screenshots
+1. Onboarding
 
-These screenshots were extracted from the SmartScan Assistant project report.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3bea7fc7-a5f9-4c66-bb39-a50d01ac8b05" width="259" height="400" alt="01 - Welcome" />
+  <img src="https://github.com/user-attachments/assets/a1d760f3-7957-4ce4-b006-6240fae41efe" width="259" height="400" alt="02 - Languages" />
+  <img src="https://github.com/user-attachments/assets/b9fb5fce-4aa0-47a3-8056-2a4dccecaaff" width="259" height="400" alt="03 - Camera Translation" />
+  <img src="https://github.com/user-attachments/assets/35b118f4-4743-4f66-881f-5ddbc8a81b87" width="259" height="400" alt="04 - Voice Reading" />
+  <img src="https://github.com/user-attachments/assets/8495e51a-7b8e-40ba-9413-7c426cf2cb6a" width="259" height="400" alt="05 - Offline Translation" />
+</p>
 
-## Interfaces
-- Onboarding: welcome, supported languages, camera translation, voice reading, offline translation
-- Home
-- About
-- Scanner
-- Scan results
-- History and scan details
-- Settings
+2. Main Interface
 
-## Add them to your GitHub README
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1306db20-eac5-4b8d-a4fe-6047ce4c0e26" width="259" height="400" alt="06 - Home" />
+  <img src="https://github.com/user-attachments/assets/ae6b55bf-c2eb-436d-97b3-80c055c05ae5" width="259" height="400" alt="07 - About" />
+  <img src="https://github.com/user-attachments/assets/cd4597f1-07d0-4100-99ca-7e0dc03c095b" width="259" height="400" alt="12 - Settings" />
+</p>
 
-If this folder is stored at `screenshots/` in your repository, you can display an image like this:
+3. Scanner & Translation Results
 
-```markdown
-![SmartScan Home](screenshots/06-home.jpg)
-```
-
-You can also create a gallery:
-
-```markdown
-| Home | Scanner | Results |
-|---|---|---|
-| ![Home](screenshots/06-home.jpg) | ![Scanner](screenshots/08-scanner.jpg) | ![Results](screenshots/09-scan-results.jpg) |
-
-| History | Settings |
-|---|---|
-| ![History](screenshots/10-history.jpg) | ![Settings](screenshots/12-settings.jpg) |
-
-## Roadmap
-
-- Ajouter des tests ciblés pour les providers et services.
-- Ajouter des captures d’écran et une courte démonstration vidéo.
-- Finaliser la signature Android et les métadonnées de publication.
-- Renforcer la gestion des erreurs et des permissions par plateforme.
-- Évaluer une stratégie de persistance plus robuste pour les historiques volumineux.
-
-## Licence
-
-Aucune licence open source n’est actuellement déclarée. Ajouter une licence avant toute redistribution publique.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e80841f4-b908-4a42-9958-8ec4a5ad3a23" width="259" height="400" alt="08 - Scanner" />
+  <img src="https://github.com/user-attachments/assets/acc2889b-566a-4d1c-98e5-849ad6220199" width="259" height="400" alt="09 - Scan Results" />
+  <img src="https://github.com/user-attachments/assets/b7775499-75ef-486e-b5b2-44315f1b5176" width="259" height="400" alt="10 - Translation Details" />
+</p>
