@@ -113,7 +113,7 @@ Chaque push et chaque pull request vers `main` déclenche automatiquement `flutt
 
 ## Aperçu
 
-Les captures d’écran ne sont pas encore versionnées dans le repository. Elles pourront être ajoutées dans `docs/screenshots/` lorsque des captures représentatives Android, Web et Windows seront disponibles.
+<img width="409" height="766" alt="01-onboarding-welcome" src="https://github.com/user-attachments/assets/3bea7fc7-a5f9-4c66-bb39-a50d01ac8b05" />
 
 ## Roadmap
 
