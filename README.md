@@ -4,7 +4,6 @@
 
 [![Flutter](https://img.shields.io/badge/Flutter-stable-02569B?logo=flutter)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-3.10%2B-0175C2?logo=dart)](https://dart.dev/)
-[![License](https://img.shields.io/badge/license-not%20specified-lightgrey)](#licence)
 
 ## Sommaire
 
@@ -15,10 +14,7 @@
 - [Installation](#installation)
 - [Exécution](#exécution)
 - [Configuration](#configuration)
-- [Qualité](#qualité)
 - [Aperçu](#aperçu)
-- [Roadmap](#roadmap)
-- [Licence](#licence)
 
 ## Présentation
 
@@ -106,10 +102,6 @@ flutter test
 Aucune clé API ni variable d’environnement n’est actuellement requise. Le fichier [`.env.example`](.env.example) documente cette situation et sert de point de départ pour de futures intégrations. Ne commitez jamais un fichier `.env` réel.
 
 Les modèles de traduction Google ML Kit sont utilisés sur l’appareil et peuvent nécessiter un téléchargement initial selon la plateforme et la langue.
-
-## Qualité
-
-Chaque push et chaque pull request vers `main` déclenche automatiquement `flutter analyze` et `flutter test` via GitHub Actions.
 
 ## Aperçu
 
