@@ -113,7 +113,7 @@ Chaque push et chaque pull request vers `main` déclenche automatiquement `flutt
 
 ## Aperçu
 
-<img width="409" height="766" alt="01-onboarding-welcome" src="https://github.com/user-attachments/assets/3bea7fc7-a5f9-4c66-bb39-a50d01ac8b05" />
+<img width="209" height="566" alt="01-onboarding-welcome" src="https://github.com/user-attachments/assets/3bea7fc7-a5f9-4c66-bb39-a50d01ac8b05" />
 
 ## Roadmap
 
