@@ -1,3 +1,4 @@
+<img width="451" height="859" alt="02-onboarding-languages" src="https://github.com/user-attachments/assets/a5d6b5ee-af5a-4584-b554-919dc83bd665" />
 # SmartScan
 
 > Assistant Flutter multilingue pour scanner du texte, identifier sa langue, le traduire hors ligne et le lire à voix haute.
@@ -114,6 +115,47 @@ Chaque push et chaque pull request vers `main` déclenche automatiquement `flutt
 ## Aperçu
 
 <img width="259" height="400" alt="01-onboarding-welcome" src="https://github.com/user-attachments/assets/3bea7fc7-a5f9-4c66-bb39-a50d01ac8b05" />
+<img width="451" height="859" alt="02-onboarding-languages" src="https://github.com/user-attachments/assets/a1d760f3-7957-4ce4-b006-6240fae41efe" />
+<img width="414" height="781" alt="03-onboarding-camera-translation" src="https://github.com/user-attachments/assets/b9fb5fce-4aa0-47a3-8056-2a4dccecaaff" />
+<img width="433" height="833" alt="04-onboarding-voice-reading" src="https://github.com/user-attachments/assets/35b118f4-4743-4f66-881f-5ddbc8a81b87" />
+<img width="447" height="885" alt="06-home" src="https://github.com/user-attachments/assets/1306db20-eac5-4b8d-a4fe-6047ce4c0e26" />
+<img width="434" height="825" alt="05-onboarding-offline-translation" src="https://github.com/user-attachments/assets/8495e51a-7b8e-40ba-9413-7c426cf2cb6a" />
+<img width="443" height="885" alt="07-about" src="https://github.com/user-attachments/assets/ae6b55bf-c2eb-436d-97b3-80c055c05ae5" />
+<img width="440" height="863" alt="12-settings" src="https://github.com/user-attachments/assets/cd4597f1-07d0-4100-99ca-7e0dc03c095b" />
+<img width="450" height="911" alt="09-scan-results" src="https://github.com/user-attachments/assets/acc2889b-566a-4d1c-98e5-849ad6220199" />
+<img width="450" height="911" alt="09-scan-results" src="https://github.com/user-attachments/assets/b7775499-75ef-486e-b5b2-44315f1b5176" />
+<img width="450" height="912" alt="08-scanner" src="https://github.com/user-attachments/assets/e80841f4-b908-4a42-9958-8ec4a5ad3a23" />
+# SmartScan Assistant – Screenshots
+
+These screenshots were extracted from the SmartScan Assistant project report.
+
+## Interfaces
+- Onboarding: welcome, supported languages, camera translation, voice reading, offline translation
+- Home
+- About
+- Scanner
+- Scan results
+- History and scan details
+- Settings
+
+## Add them to your GitHub README
+
+If this folder is stored at `screenshots/` in your repository, you can display an image like this:
+
+```markdown
+![SmartScan Home](screenshots/06-home.jpg)
+```
+
+You can also create a gallery:
+
+```markdown
+| Home | Scanner | Results |
+|---|---|---|
+| ![Home](screenshots/06-home.jpg) | ![Scanner](screenshots/08-scanner.jpg) | ![Results](screenshots/09-scan-results.jpg) |
+
+| History | Settings |
+|---|---|
+| ![History](screenshots/10-history.jpg) | ![Settings](screenshots/12-settings.jpg) |
 
 ## Roadmap
 
