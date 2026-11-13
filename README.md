@@ -136,5 +136,4 @@ Chaque push et chaque pull request vers `main` déclenche automatiquement `flutt
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e80841f4-b908-4a42-9958-8ec4a5ad3a23" width="259" height="400" alt="08 - Scanner" />
   <img src="https://github.com/user-attachments/assets/acc2889b-566a-4d1c-98e5-849ad6220199" width="259" height="400" alt="09 - Scan Results" />
-  <img src="https://github.com/user-attachments/assets/b7775499-75ef-486e-b5b2-44315f1b5176" width="259" height="400" alt="10 - Translation Details" />
 </p>
